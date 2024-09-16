@@ -30,6 +30,10 @@ I'm a passionate **software engineer** with hands-on experience in building scal
 
 ## 🚀 My Projects
 
+### **[TrendCart](https://github.com/kjh-bryan/recommender_llm)**
+- Developed LLM-based Recommender System using **OpenAI’s embedding model** and **Pinecone vector database** to deliver personalized product recommendations.
+- **Technologies used:** Next.js, Nest.js, PostgreSQL, Pinecone, OpenAI.
+
 ### **[Insight Learning Platform](https://github.com/kjh-bryan/insight-mobile)**
 - A personalized learning platform using **Azure Document Intelligence** and **OpenAI** to generate study materials like flashcards and quizzes from lecture notes.
 - **Technologies used:** React, Node.js, Azure (OpenAI, SQL), Docker.
